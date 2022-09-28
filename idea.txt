@@ -1,0 +1,8 @@
+1. "Milano Bros"
+
+2. Player di gerakkan menggunakan Keyboard W, A, S, D
+  Kalau Ada Musuh Harus di Hindari atau di Tembak
+
+4. Kalau menyantuh Bendera Gamenya Selesai
+
+5. Tidak ada level tapi makin sulit. Musuhnya semakin kuat

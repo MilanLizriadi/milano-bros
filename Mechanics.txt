@@ -1,0 +1,5 @@
+1. Player-nya digerakkan menggunakan keyboard W, A, S, D.
+
+2. Musuhnya akan mati kalau terkena tembakan dari Player
+
+3. Beberapa Musuh drop hati/darah untuk menamah darah
